@@ -7,7 +7,7 @@ I'm a **Frontend Developer Intern** at **NTT DATA Cluj**, with 11 months of expe
 - 💼 Intern at NTT DATA Cluj, developing UI components for enterprise web applications
 - 🎓 Self-taught developer passionate about frontend technologies
 - 🌟 Enjoy creating pixel-perfect designs and experimenting with modern frameworks
-- 📫 Reach me at [maaximfrancesco@gmail.com] or [LinkedIn](https://www.linkedin.com/in/francescomaxim/)
+- 📫 Reach me at (Mail)[maaximfrancesco@gmail.com] or [LinkedIn](https://www.linkedin.com/in/francescomaxim/)
 
 ## 🛠️ Skills
 - **Languages**: HTML5, CSS3, JavaScript, TypeScript
@@ -27,6 +27,6 @@ I'm a **Frontend Developer Intern** at **NTT DATA Cluj**, with 11 months of expe
 ## 📬 Get in Touch
 - **GitHub**: [Maxim Francesco](https://github.com/maxim-francesco)
 - **LinkedIn**: [Maxim Francesco](https://www.linkedin.com/in/francescomaxim/)
-- **Email**: [maaximfrancesco@gmail.com]
+- **Email**: (Mail)[maaximfrancesco@gmail.com]
 
 Thanks for visiting my profile! Let’s build something amazing together! 🚀
