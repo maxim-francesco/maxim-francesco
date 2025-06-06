@@ -4,7 +4,7 @@ I'm a **Frontend Developer Intern** at **NTT DATA Cluj**, with 11 months of expe
 
 ## 🚀 About Me
 - 🌍 Based in Cluj-Napoca, Romania
-- 💼 Intern at NTT DATA Cluj, developing UI components for enterprise web applications
+- 💼 Intern at NTT DATA Cluj
 - 🎓 Third-year student at the Technical University of Cluj-Napoca, Faculty of Automation and Computer Science
 - 🧠 Passionate about core computer science topics like:
   - **Operating Systems**
